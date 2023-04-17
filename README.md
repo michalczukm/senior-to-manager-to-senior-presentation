@@ -8,7 +8,7 @@ Or open it on `slides.com` [here](https://slides.com/michalczukm/senior-to-manag
 
 ## Presentation
 
-[Embedded on the page - click]()
+[Embedded on the page - click](https://michalczukm.github.io/senior-to-manager-to-senior-presentation/)
 
 ## About me
 
